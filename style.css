@@ -12,7 +12,6 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 #div1{
-    border:solid 1px red;
     width:375px;
     height: 580px;
     display:flex;
