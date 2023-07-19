@@ -12,10 +12,11 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 #div1{
+    border:solid 1px red;
     width:375px;
+    height: 580px;
     display:flex;
     flex-direction:column;
-    height: 60vh;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
 
